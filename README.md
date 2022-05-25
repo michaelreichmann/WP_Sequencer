@@ -9,7 +9,8 @@ Each screen shows the note value-control on the bottom left, determining how fas
 There are also presets for scales provided as .txt-files which can be accessed in the note-interface.
 
 The controls are: <br/>
-*note-interface*
+<br/>
+*note-interface* <br/>
 **table of notes** <br/>
 **root**: set the root note of a scale preset <br/>
 **scale**: set a scale preset <br/>
